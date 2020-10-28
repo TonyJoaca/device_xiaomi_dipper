@@ -10,5 +10,23 @@
     "repository":  "gmw-project/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "lineage-18.0"
-    }
+  },
+  { 
+    "remote": "nad",
+    "repository": "android_vendor_qcom_opensource_commonsys-intf_display",
+    "target_path": "vendor/qcom/opensource/commonsys-intf/display",
+    "branch": "11"
+  },
+  { 
+    "remote": "nad",
+    "repository": "android_hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/sdm845/display",
+    "branch": "11-sdm845"
+  },
+  {
+    "remote": "priv",
+    "repository": "android_packages_apps_NusantaraPapers",
+    "target_path": "packages/apps/NusantaraPapers",
+    "branch": "10"
+  }
 ]
