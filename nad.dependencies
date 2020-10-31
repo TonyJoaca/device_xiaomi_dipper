@@ -10,11 +10,5 @@
     "repository":  "gmw-project/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "lineage-18.0"
-    },
-    {
-    "remote": "gitlab",
-    "repository": "goodmeow/vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch": "11"
     }
 ]
