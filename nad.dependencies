@@ -3,13 +3,13 @@
     "remote": "github",
     "repository": "NusantaraROM-devices/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "11-power-caf"
+    "branch": "11"
   },
   {
     "remote": "github",
-    "repository":  "gmw-project/android_kernel_xiaomi_sdm845",
+    "repository":  "LineageOS/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "lineage-18.0"
+    "branch": "lineage-18.1"
   },
   { 
     "remote": "nad",
