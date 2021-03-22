@@ -14,10 +14,10 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/kangos_dipper.mk
+    $(LOCAL_DIR)/potato_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
-    kangos_dipper-user \
-    kangos_dipper-userdebug \
-    kangos_dipper-eng
+    potato_dipper-user \
+    potato_dipper-userdebug \
+    potato_dipper-eng
 
