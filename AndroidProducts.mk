@@ -14,10 +14,10 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_dipper.mk
+    $(LOCAL_DIR)/lineage_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_dipper-user \
-    potato_dipper-userdebug \
-    potato_dipper-eng
+    lineage_dipper-user \
+    lineage_dipper-userdebug \
+    lineage_dipper-eng
 
