@@ -14,10 +14,10 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_dipper.mk
+    $(LOCAL_DIR)/corvus_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_dipper-user \
-    potato_dipper-userdebug \
-    potato_dipper-eng
+    corvus_dipper-user \
+    corvus_dipper-userdebug \
+    corvus_dipper-eng
 
