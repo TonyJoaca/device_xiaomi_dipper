@@ -116,8 +116,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     SecureElement
     
-    #hals
-    YOUR_HW_PLATFORM := sdm845
+#hals
+YOUR_HW_PLATFORM := sdm845
 
 # Hardware
 PRODUCT_BOARD_PLATFORM := $(YOUR_HW_PLATFORM)
